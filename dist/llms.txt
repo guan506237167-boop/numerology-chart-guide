@@ -1,0 +1,41 @@
+﻿# Numerology Compass
+
+A numerology learning site with calculators, number profiles, name readings, and practical guides for beginners.
+
+Key sections:
+- https://www.numerologychartguide.com/
+- https://www.numerologychartguide.com/guide/
+- https://www.numerologychartguide.com/tools/
+- https://www.numerologychartguide.com/products/
+- https://www.numerologychartguide.com/faq/
+- https://www.numerologychartguide.com/about/
+- https://www.numerologychartguide.com/contact/
+- https://www.numerologychartguide.com/privacy/
+- https://www.numerologychartguide.com/terms/
+- https://www.numerologychartguide.com/categories/number-profiles/
+- https://www.numerologychartguide.com/categories/calculators/
+- https://www.numerologychartguide.com/categories/practice/
+- https://www.numerologychartguide.com/tools/life-path-calculator/
+- https://www.numerologychartguide.com/tools/name-number-calculator/
+- https://www.numerologychartguide.com/tools/personal-year-calculator/
+- https://www.numerologychartguide.com/guide/life-path-number-meaning/
+- https://www.numerologychartguide.com/guide/name-numerology-guide/
+- https://www.numerologychartguide.com/guide/numerology-vs-lucky-numbers/
+- https://www.numerologychartguide.com/guide/daily-numerology-routine/
+- https://www.numerologychartguide.com/guide/number-profiles-beginner-guide/
+- https://www.numerologychartguide.com/guide/number-profiles-common-mistakes/
+- https://www.numerologychartguide.com/guide/calculators-beginner-guide/
+- https://www.numerologychartguide.com/guide/calculators-common-mistakes/
+- https://www.numerologychartguide.com/guide/practice-beginner-guide/
+- https://www.numerologychartguide.com/guide/practice-common-mistakes/
+- https://www.numerologychartguide.com/guide/life-path-calculator-how-to-use/
+- https://www.numerologychartguide.com/guide/life-path-calculator-result-guide/
+- https://www.numerologychartguide.com/guide/name-number-calculator-how-to-use/
+- https://www.numerologychartguide.com/guide/name-number-calculator-result-guide/
+- https://www.numerologychartguide.com/guide/personal-year-calculator-how-to-use/
+- https://www.numerologychartguide.com/guide/personal-year-calculator-result-guide/
+- https://www.numerologychartguide.com/guide/printable-numerology-worksheet-buying-guide/
+- https://www.numerologychartguide.com/guide/name-number-report-template-buying-guide/
+- https://www.numerologychartguide.com/guide/numerology-journal-pages-buying-guide/
+- https://www.numerologychartguide.com/guide/numerology-faq-guide/
+
