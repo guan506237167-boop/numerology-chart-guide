@@ -1,4 +1,4 @@
-﻿# Numerology Compass
+# Numerology Compass
 
 A numerology learning site with calculators, number profiles, name readings, and practical guides for beginners.
 
@@ -38,4 +38,3 @@ Key sections:
 - https://www.numerologychartguide.com/guide/name-number-report-template-buying-guide/
 - https://www.numerologychartguide.com/guide/numerology-journal-pages-buying-guide/
 - https://www.numerologychartguide.com/guide/numerology-faq-guide/
-
