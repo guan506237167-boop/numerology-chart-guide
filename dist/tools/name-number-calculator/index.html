@@ -62,10 +62,10 @@
   <footer class="footer">
     <div class="footer-inner">
       <div><strong>Numerology Compass</strong><p class="small">Calculate life path, name number, and number patterns with a calm cultural reading style.</p></div>
-      <div class="small">Numerology Compass publishes practical guides, tools, resources, and FAQ for readers.<br><a href="/about/">About</a> | <a href="/contact/">Contact</a> | <a href="/privacy/">Privacy</a> | <a href="/terms/">Terms</a></div>
+      <div class="small">Numerology Compass publishes practical guides, tools, resources, and FAQ for readers.<br><a href="/about/">About</a> | <a href="/contact/">Contact</a> | <a href="/privacy/">Privacy</a> | <a href="/terms/">Terms</a> | <a href="/disclaimer/">Disclaimer</a></div>
     </div>
   </footer>
-  <script>function sumDigits(s){return String(s).replace(/\D/g,"").split("").reduce((a,b)=>a+Number(b),0)}function reduce(n){while(n>9&&n!==11&&n!==22)n=String(n).split("").reduce((a,b)=>a+Number(b),0);return n}function nameNum(name){return reduce(name.toUpperCase().replace(/[^A-Z]/g,"").split("").reduce((a,c)=>a+(c.charCodeAt(0)-64-1)%9+1,0))}function runTool(){const life=reduce(sumDigits(document.getElementById("birth").value));const nn=nameNum(document.getElementById("nameInput").value);document.getElementById("result").innerHTML="<strong>Life path:</strong> "+life+"<br><strong>Name number:</strong> "+nn+"<br>Read these as reflection prompts: life path shows a broad rhythm, while name number shows how the name feels in public use."}</script>
+  <script>function sumDigits(s){return String(s).replace(/\D/g,"").split("").reduce((a,b)=>a+Number(b),0)}function reduce(n){while(n>9&&n!==11&&n!==22)n=String(n).split("").reduce((a,b)=>a+Number(b),0);return n}function nameNum(name){return reduce(name.toUpperCase().replace(/[^A-Z]/g,"").split("").reduce((a,c)=>a+(c.charCodeAt(0)-64-1)%9+1,0))}function runTool(){const life=reduce(sumDigits(document.getElementById("birth").value));const nn=nameNum(document.getElementById("nameInput").value);document.getElementById("result").innerHTML="<strong>Life path:</strong> "+life+"<br><strong>Name number:</strong> "+nn+"<br>Read these as reflection notes: life path shows a broad rhythm, while name number shows how the name feels in public use."}</script>
   <script src="/assets/paid-report.js" defer></script>
 </body>
 </html>
